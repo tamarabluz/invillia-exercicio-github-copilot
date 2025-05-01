@@ -1,0 +1,23 @@
+[33mcommit edb73a79889531146c327bf67f772087d67188e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maccelerate-with-copilot[m[33m, [m[1;31morigin/accelerate-with-copilot[m[33m)[m
+Author: Tamara Luz <tamarabluz@gmail.com>
+Date:   Thu May 1 21:37:41 2025 +0000
+
+    Adiciona exibição de participantes nas atividades e estilização correspondente
+
+[33mcommit ae8b868a6d10149a9db93af81286d873a0fe97b8[m
+Author: Tamara Luz <tamarabluz@gmail.com>
+Date:   Thu May 1 19:41:09 2025 +0000
+
+    Adiciona atividades extracurriculares e validação de inscrição para alunos
+
+[33mcommit 19ca1db4dd992f7b16a4fe0467216c6f2e71ea7f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Apr 30 11:44:16 2025 +0000
+
+    Start exercise
+
+[33mcommit c0651ccacac5ce58454c77c9dfd31d527e036316[m
+Author: Tamara Luz <tamarabluz@gmail.com>
+Date:   Wed Apr 30 08:44:05 2025 -0300
+
+    Initial commit
